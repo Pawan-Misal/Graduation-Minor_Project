@@ -1,1 +1,1 @@
-# Graduation-Mini_Project
+# Graduation-Minor_Project
